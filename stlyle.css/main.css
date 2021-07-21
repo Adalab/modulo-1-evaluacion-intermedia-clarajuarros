@@ -5,13 +5,28 @@
   font-family: "Rubik", sans-serif;
 }
 .header {
-  background-color: khaki;
+  width: 100%;
+  display: block;
+  overflow: hidden;
 }
-
+.logo_adalab {
+  width: 155px;
+  float: left;
+}
 .menu {
   color: #4a4a4a;
   list-style: none;
+  font-size: 16px;
+  text-decoration: none;
+  float: right;
+  padding: auto;
+  margin-right: 20px;
+  margin-top: 10px;
 }
 .main {
   background-color: #3cdbc0;
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+  height: 600px;
 }
