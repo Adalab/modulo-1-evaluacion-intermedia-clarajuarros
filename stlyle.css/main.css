@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+}
+.header {
+  background-color: khaki;
+}
+
+.menu {
+  color: #4a4a4a;
+  list-style: none;
+}
+.main {
+  background-color: #3cdbc0;
+}
